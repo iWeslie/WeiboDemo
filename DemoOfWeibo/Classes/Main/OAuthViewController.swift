@@ -49,7 +49,7 @@ extension OAuthViewController {
     }
     @objc fileprivate func fillBtnClicked() {
         
-        let jsCode = "document.getElementById('userId').value='2623032659@qq.com';document.getElementById('passwd').value='iWeslie032659..!';"
+        let jsCode = "document.getElementById('userId').value='2623032659@qq.com';"
         OAuthWebView.stringByEvaluatingJavaScript(from: jsCode)
     }
 }

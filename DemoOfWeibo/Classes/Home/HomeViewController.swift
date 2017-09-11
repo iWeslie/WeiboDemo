@@ -38,8 +38,6 @@ class HomeViewController: BaseViewController {
     }
 }
 
-
-
 extension HomeViewController {
     func setNavBarItems() {
 
