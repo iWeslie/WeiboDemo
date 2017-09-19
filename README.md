@@ -1,3 +1,3 @@
 # WeiboDemo    
 * A simple demo imitated Sinaweibo    
-* Learn from SeeMeGo
+* Learn from SEEMYGO
