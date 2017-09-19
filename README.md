@@ -1,2 +1,2 @@
 # WeiboDemo    
-## A simple demo imitated Sinaweibo
+* ## A simple demo imitated Sinaweibo
